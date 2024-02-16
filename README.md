@@ -12,3 +12,6 @@ Go to [here](https://gist.github.com/stephenbrutch/2981dfd244852d8e0c08a9eccbdb2
 
 ## 4 MNIST classification
 Go to [here](https://github.com/stephenbrutch/Machine-Learning-Projects/blob/main/hand_written_mnist_digits_classification.ipynb) for code written for MNIST hand written digits for multi class classification
+
+## 5 BTC Price Prediction
+Go to [here](https://github.com/stephenbrutch/Machine-Learning-Projects/blob/main/10_time_series_forecasting_in_tensorflow.ipynb) for Bitcoin price prediction handled as a time series forecasting problem. We use the univariate and multivariate case as well as Dense, LSTM, CNN layers
